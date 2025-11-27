@@ -38,4 +38,4 @@ npm run build
 2. En `App.tsx`:
    - Agrega `"ru"` a `AVAILABLE_LANGS` si quieres mostrar el botón.
 3. Commit y despliegas de nuevo.
-# titan-war-guide
+
